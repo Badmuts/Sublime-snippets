@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-$('${1:elem}').on('${2:event}', function (${3}}) {
+\$('${1:elem}').on('${2:event}', function (${3}) {
 	${4}
 });
 ]]></content>
