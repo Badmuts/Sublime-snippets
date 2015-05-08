@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-$(document).ready(function () {
+\$(function () {
 	${1}
 });
 ]]></content>
